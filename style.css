@@ -1,0 +1,21 @@
+#external{
+    font-size: 25px;
+    color: blue;
+    text-align: center;
+    border-bottom: 2px lightseagreen solid;
+    padding-bottom: 5px;
+    width:500px;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    margin-left: 415px;;
+}
+#para{
+    background-color: pink;
+    color:red;
+    font-size: 20px;
+    word-spacing: 5px;
+    border:2px palevioletred solid;
+    width:500px;
+    margin-left: 415px;
+    
+}
